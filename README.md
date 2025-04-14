@@ -10,6 +10,7 @@ Here in this code we give image and text to be concealed in an image and press *
 
 ### Tutorial(Preview):
 
+![alt text](https://github.com/Yuvang-24/Image-Steganography/blob/main/Project/Preview/Preview.mp4)
 
  ## Requirements
  * Python
