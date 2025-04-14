@@ -20,7 +20,8 @@ Here in this code we give image and text to be concealed in an image and press *
  ## How to run?
  ```
  pip install Pillow
- pip install tk 
+ pip install tk
+ Python Project.py
  ```
 
 # Reference
