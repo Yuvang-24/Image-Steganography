@@ -28,5 +28,5 @@ Here in this code we give image and text to be concealed in an image and press *
 
 #### Feel free to Help and learn. (^_^)
 ### Note: >This software is best compatiable with .png images 
-###       >Edit both the paths according to your system [image_icon = PhotoImage(file=r"C:\Image Steganography\logo.jpg")] & []
+###       >Edit both the paths according to your system [image_icon = PhotoImage(file=r"C:\Image Steganography\logo.jpg")] & [logo = PhotoImage(file=r"C:\Image Steganography\dd.png")]
         
